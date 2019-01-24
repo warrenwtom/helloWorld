@@ -1,6 +1,6 @@
 package helloWorld;
 
-public class variables {
+public class Variables {
 	public static void main(String[] args) {
 		int x = 7;
 		if(x < 42) {
