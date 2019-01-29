@@ -6,6 +6,7 @@ public class Arrays {
 		for(int t: myArr) {
 		   System.out.println(t);
 		}
+		System.out.println("Array length is " + myArr.length);
 
 	}
 }
